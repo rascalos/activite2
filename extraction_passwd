@@ -1,0 +1,66 @@
+abrt:
+adm:adm
+amandabackup:Amanda user
+apache:Apache
+arpwatch:
+avahi-autoipd:Avahi IPv4LL Stack
+bacula:Bacula Backup System
+bin:bin
+cimsrvr:tog-pegasus OpenPegasus WBEM/CIM services
+cyrus:Cyrus IMAP Server
+daemon:daemon
+dbus:System message bus
+dhcpd:DHCP server
+dovecot:Dovecot IMAP server
+dovenull:Dovecot's unauthorized user
+ftp:FTP User
+games:games
+gdm:
+gopher:gopher
+haldaemon:HAL daemon
+halt:halt
+hsqldb:
+ident:
+ldap:LDAP User
+lp:lp
+mail:mail
+mailman:GNU Mailing List Manager
+mailnull:
+memcached:Memcached daemon
+mysql:MySQL Server
+named:Named
+nfsnobody:Anonymous NFS User
+nobody:Nobody
+nscd:NSCD Daemon
+nslcd:LDAP Client User
+ntp:
+operator:operator
+oprofile:Special user account to be used by OProfile
+pegasus:tog-pegasus OpenPegasus WBEM/CIM services
+postfix:
+postgres:PostgreSQL Server
+pulse:PulseAudio System Daemon
+quagga:Quagga routing suite
+radiusd:radiusd user
+radvd:radvd user
+root:root
+rpc:Rpcbind Daemon
+rpcuser:RPC Service User
+rtkit:RealtimeKit
+sabayon:Sabayon user
+saslauth:"Saslauthd user"
+shutdown:shutdown
+smmsp:
+squid:
+sshd:Privilege-separated SSH
+stap-server:Systemtap Compile Server
+sync:sync
+tcpdump:
+tomcat:Apache Tomcat
+tss:Account used by the trousers package to sandbox the tcsd daemon
+usbmuxd:usbmuxd user
+uucp:uucp
+uuidd:UUID generator helper daemon
+vcsa:virtual console memory owner
+webalizer:Webalizer
+xguest:Guest
